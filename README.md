@@ -1,1 +1,1 @@
-README OF SHELL BASIC
+shell permisos
